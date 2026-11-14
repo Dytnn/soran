@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 소란 로고: 말풍선 + 이동 경로 + 순간의 점 (HTML 시안의 LOGO SVG 와 같은 도형) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp" android:height="96dp"
+    android:viewportWidth="32" android:viewportHeight="32">
+    <path android:fillColor="#285FE8"
+        android:pathData="M7,3h18a6,6 0,0 1,6 6v9a6,6 0,0 1,-6 6H17l-6,5v-5H7a6,6 0,0 1,-6 -6V9a6,6 0,0 1,6 -6z" />
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="2" android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M7,17c3,-7 6,3 10,-2s5,-3 7,-6" />
+    <path android:fillColor="#FFBA85"
+        android:pathData="M24.5,9m-3.2,0a3.2,3.2 0,1 1,6.4 0a3.2,3.2 0,1 1,-6.4 0" />
+</vector>

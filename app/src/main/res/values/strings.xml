@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">소란</string>
+    <string name="channel_revisit">재방문 추억 알림</string>
+    <string name="channel_revisit_desc">예전에 순간 카드를 남긴 장소 근처에 오면 알려줘요.</string>
+</resources>

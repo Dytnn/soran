@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- pleos 플레이버 전용 권한 (main 매니페스트와 병합돼요) -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Pleos FusedLocation SDK: 차량 위치 + 근접 알림. 런타임에 요청해요. -->
+    <uses-permission android:name="pleos.car.permission.FUSED_LOCATION" />
+</manifest>
