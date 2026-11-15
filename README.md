@@ -52,3 +52,7 @@ adb shell dumpsys activity service com.android.car inject-vhal-event 0x11200402 
   * 개발 및 완벽한 테스트를 위해 `nexus-playground.pleos.ai`에서 제공하는 **Pleos Connect Emulator v2.1.0** 사용을 권장합니다.
 * **화면 규격**: **984 × 608** (가로 모드 / Landscape)
   * 기획 및 디자인 시안(`soran-app-only.html`)의 984×608 픽셀 크기에 맞춰, CSS px 값을 안드로이드 dp/sp로 1:1 변환하여 레이아웃이 구현되어 있습니다.
+ 
+## 4. Github Release 링크
+
+https://github.com/Dytnn/soran/releases/tag/v1.0.0
